@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HOME</title>
+
+<style type="text/css">
+<!--
+body {
+   background-image: url('img/blue.jpg');
+   background-attachment: fixed;
+   /*background-color: gray;*/
+   color: #000305;
+   font-size: 87.5%;
+   text-align: left;
+   font-family: Arial, 'Lucida Sans Unicode';     
+}
+#wrapper {
+	text-align: left;
+	width: 780px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+    
+}
+#header {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#content {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#footer{
+    clear: both;
+    color: white;
+    background-color: darkslategrey;
+    height: 50px;
+  
+}
+#logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    letter-spacing: -2px;
+    width: 100%; 
+    
+}
+#punchline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold:
+    color: #C69C6D;
+    padding-left: 20px;
+    padding-top: -5px;
+    
+}
+
+a{
+        text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #FF8C00;
+}
+
+a: hover, a:activated{
+    background-color: #FF8C00;
+    color: #FFF;
+}
+
+.body{
+    margin: 0 auto;
+    width: 70px;
+    clear: both;
+}
+
+.mainheader img{ 
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+.mainheader nav{
+    background-color: #2F4F4F;
+    height: 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+#nav{
+    height: 40px;
+    background-color: chocolate;
+    color: white;
+
+}
+#topsidebar{
+    margin-top: 5px;
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: orangered;
+    float: right;
+    
+}
+#middlesidebar{
+    margin-top: 5px;
+    height: 150px;
+    width: 200px;
+    color: white;
+    background-color: orangered;
+    float: right;
+}
+
+#bottomsidebar{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    height: 155px;
+    width: 200px;
+    color: white;
+    background-color: orangered;
+    float: right;
+
+}
+#topcontent{
+    margin-top: 5px;
+    width: 570px;
+    height: 200px;
+    float: left;
+    color: white;
+    background-color: orangered;
+
+}
+#bottomcontent{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 570px;
+    height: 210px;
+    float: left;
+    color: white;
+    background-color: orangered;
+
+}
+
+-->
+</style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="logo">LOGO</div>
+            <div id="nav">NAVIGATION</div>
+           
+        </div>
+        
+            <div id="content">
+                <div id="topsidebar"> <br><br> &nbsp;TOP-SIDEBAR</div>
+                <div id="topcontent"><br><br> &nbsp; TOP CONTENT</div>
+                <div id="middlesidebar"><br><br> &nbsp; MIDDLE-SIDEBAR</div>
+              
+                <div id="bottomcontent"> <br><br> &nbsp; BOTTOM CONTENT</div>
+                   <div id="bottomsidebar"> <br><br> &nbsp; BOTTOM-SIDER</div>
+               
+            </div>
+                <div id="footer"> MAIN FOOTER</div>
+    </div>
+</body>
+
+
+</html>
